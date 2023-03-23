@@ -8,6 +8,6 @@
 let custom_text_header = `
 <div class="custom-text-header"> <pre>
 !NORTHRUP UNRAID!
-                                                                 </pre> </div>
+</pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
