@@ -6,8 +6,8 @@
 // You must escape any backward slashes. "\\"
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>          
-NORTHRUP UNRAID!
+<div class="custom-text-header"> <pre>
+!NORTHRUP UNRAID!
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
